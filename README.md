@@ -1,7 +1,7 @@
 # parentesis
-Practica sobre parentesis
+Practica sobre parentesis:
 
-Esta practica hace tres funciones principales a partir del documento suministrados "caracteres.txt"
+Esta practica hace tres funciones principales a partir del documento suministrados "caracteres.txt".
 
 1) Muestra el texto original.
 2) Muestra el texto original y reemplaza los parentesis por espacios.
