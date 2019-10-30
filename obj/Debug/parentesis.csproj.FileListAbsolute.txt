@@ -1,0 +1,6 @@
+C:\Users\jrondon\source\parentesis\parentesis\bin\Debug\parentesis.exe.config
+C:\Users\jrondon\source\parentesis\parentesis\bin\Debug\parentesis.exe
+C:\Users\jrondon\source\parentesis\parentesis\bin\Debug\parentesis.pdb
+C:\Users\jrondon\source\parentesis\parentesis\obj\Debug\parentesis.csprojAssemblyReference.cache
+C:\Users\jrondon\source\parentesis\parentesis\obj\Debug\parentesis.exe
+C:\Users\jrondon\source\parentesis\parentesis\obj\Debug\parentesis.pdb
